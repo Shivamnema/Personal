@@ -1,5 +1,3 @@
-Here is everything you need, structured in the order you should present it.
-
 ---
 
 # Account Number Extraction System
